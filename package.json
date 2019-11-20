@@ -1,0 +1,44 @@
+{
+  "name": "quadratic-equation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "QuadraticEquation.js",
+  "dependencies": {
+    "has": "^1.0.3",
+    "has-flag": "^3.0.0",
+    "has-values": "^1.0.0",
+    "ignore": "^4.0.6",
+    "inherits": "^2.0.4",
+    "is-accessor-descriptor": "^0.1.6",
+    "is-alphabetical": "^1.0.3",
+    "is-alphanumeric": "^1.0.0",
+    "is-alphanumerical": "^1.0.3",
+    "is-buffer": "^1.1.6",
+    "is-data-descriptor": "^0.1.4",
+    "is-decimal": "^1.0.3",
+    "is-descriptor": "^0.1.6",
+    "is-extendable": "^0.1.1",
+    "is-extglob": "^2.1.1",
+    "is-fullwidth-code-point": "^2.0.0",
+    "is-glob": "^4.0.1",
+    "is-hexadecimal": "^1.0.3",
+    "is-number": "^3.0.0",
+    "is-plain-obj": "^2.0.0",
+    "is-whitespace-character": "^1.0.3",
+    "jsdoc-md": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kbuczynski/quadratic-equation.git"
+  },
+  "author": "Kbuczynski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kbuczynski/quadratic-equation/issues"
+  },
+  "homepage": "https://github.com/Kbuczynski/quadratic-equation#readme"
+}
