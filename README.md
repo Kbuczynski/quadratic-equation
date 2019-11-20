@@ -1,1 +1,1 @@
-### [Documentation](https://kbuczynski.github.io/quadratic-equation/docs/)
+### [Documentation](https://kbuczynski.github.io/quadratic-equation/)
